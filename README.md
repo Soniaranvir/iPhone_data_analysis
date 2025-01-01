@@ -40,5 +40,49 @@ Identifying price extremes (highest and lowest).
 Filtering data based on criteria (e.g., price, ratings).
 Aggregating metrics like average ratings and discounts.
 
+Code Overview
+
+Step 1: Data Exploration
+
+Display the first few rows of the dataset.
+
+Check for missing values or duplicates.
+
+Summarize numerical columns using .describe().
+
+Step 2: Filtering and Insights
+
+Identify the highest and lowest priced iPhones.
+
+Filter data to find models with specific price ranges.
+
+Analyze customer ratings and their correlation with prices.
+
+Step 3: Advanced Analysis
+
+Calculate metrics like value-for-money scores.
+
+Group data by RAM or storage to analyze pricing trends.
+
+Investigate the impact of discounts on reviews and ratings.
+
+Step 4: Visualizations
+
+Use libraries like Matplotlib and Seaborn to create:
+
+Bar charts for the most popular models.
+
+Scatter plots for Sale Price vs. Star Rating.
+
+Heatmaps to visualize correlations.
+
+Technologies Used
+
+Python: For data cleaning and analysis.
+
+Pandas: To manipulate and explore the dataset.
+
+Matplotlib & Seaborn: For visualizing insights.
+
 ## 🚀 Project Significance
 This project serves as an excellent introduction to data analysis concepts using Python. It demonstrates how real-world datasets can be used to derive insights, make informed decisions, and explore customer preferences. The analysis performed here lays the groundwork for more advanced analytics, such as predictive modeling or visualization.
