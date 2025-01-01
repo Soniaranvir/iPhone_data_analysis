@@ -11,6 +11,11 @@ The objective of this analysis is to explore trends such as the price distributi
 - Explore Discount Trends: Study the discounts applied to different iPhone models.
 - Gain Insights for Decision-Making: Provide actionable insights for customers and businesses, such as identifying models under a specific price point or with high ratings.
 
+## Features & Key Functionalities:
+- Data Cleaning: The dataset contains 62 entries for various iPhone products.Missing data analysis, checking the dataset for inconsistencies or anomalies.
+- Exploratory Data Analysis (EDA): Descriptive statistics, filtering, and visualizing data to gain insights.
+- Data Visualizations: Histograms, scatter plots, and bar plots to understand price distributions, star ratings, and RAM effects on ratings.
+
 ## 📂 Dataset
 The dataset (apple_products.csv) contains the following columns:
 
@@ -37,15 +42,10 @@ We identify the maximum and minimum values in the "MRP" column.
 Filter and analyze products with MRP under ₹50,000 and above ₹100,000.
 
 ## Visualizations:
-Price Distribution: Histogram to show the distribution of sale prices across the products.
-Discount Analysis: Scatter plot comparing the discount percentage against MRP.
-Rating Analysis: A bar chart of the distribution of star ratings.
-RAM Distribution: A bar plot for RAM configurations across products.
-
-## Features & Key Functionalities:
-- Data Cleaning: The dataset contains 62 entries for various iPhone products.Missing data analysis, checking the dataset for inconsistencies or anomalies.
-- Exploratory Data Analysis (EDA): Descriptive statistics, filtering, and visualizing data to gain insights.
-- Data Visualizations: Histograms, scatter plots, and bar plots to understand price distributions, star ratings, and RAM effects on ratings.
+- Price Distribution: Histogram to show the distribution of sale prices across the products.
+- Discount Analysis: Scatter plot comparing the discount percentage against MRP.
+- Rating Analysis: A bar chart of the distribution of star ratings.
+- RAM Distribution: A bar plot for RAM configurations across products.
 
 ## 🔍 Key Insights
 - Price Range: iPhone models in the dataset range from ₹39,900 (iPhone SE) to ₹1,49,900 (iPhone 12 Pro, 512 GB).
