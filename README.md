@@ -1,4 +1,4 @@
-# iPhone Data Analysis Project
+# 📱 iPhone Data Analysis Project
 
 ## 📖Project Overview
 This project involves the analysis of iPhone products data from Flipkart to gain insights into various product features, prices, ratings, and discounts. The dataset includes information about different iPhone models, including product names, sale prices, MRP (Maximum Retail Price), discount percentages, number of ratings and reviews, RAM specifications, and star ratings.
