@@ -11,7 +11,7 @@ The objective of this analysis is to explore trends such as the price distributi
 - Explore Discount Trends: Study the discounts applied to different iPhone models.
 - Gain Insights for Decision-Making: Provide actionable insights for customers and businesses, such as identifying models under a specific price point or with high ratings.
 
-## Features & Key Functionalities:
+## 🔑 Features & Key Functionalities:
 - Data Cleaning: The dataset contains 62 entries for various iPhone products.Missing data analysis, checking the dataset for inconsistencies or anomalies.
 - Exploratory Data Analysis (EDA): Descriptive statistics, filtering, and visualizing data to gain insights.
 - Data Visualizations: Histograms, scatter plots, and bar plots to understand price distributions, star ratings, and RAM effects on ratings.
@@ -31,17 +31,17 @@ The dataset (apple_products.csv) contains the following columns:
 - Star Rating: Average star rating of the product.
 - RAM: RAM specification of the product.
 
-## Code Overview
+## 💻 Code Overview
 The code uses the pandas library to load the dataset and clean the data, matplotlib and seaborn for visualizations, and the numpy library for some numeric calculations.
 
-## Steps:
+## 📝 Steps:
 - Data Import: The dataset is read into a pandas DataFrame from a CSV file.
 - Data Cleaning: We explore the dataset by checking for missing values and counting entries for each column.
 - Exploratory Data Analysis (EDA):
 We identify the maximum and minimum values in the "MRP" column.
 Filter and analyze products with MRP under ₹50,000 and above ₹100,000.
 
-## Visualizations:
+## 📊 Visualizations:
 - Price Distribution: Histogram to show the distribution of sale prices across the products.
 - Discount Analysis: Scatter plot comparing the discount percentage against MRP.
 - Rating Analysis: A bar chart of the distribution of star ratings.
