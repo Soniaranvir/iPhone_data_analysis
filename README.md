@@ -84,5 +84,27 @@ Pandas: To manipulate and explore the dataset.
 
 Matplotlib & Seaborn: For visualizing insights.
 
+How to Run the Project
+
+Clone this repository.
+
+Install the required Python libraries:
+
+pip install pandas matplotlib seaborn
+
+Run the Python script or Jupyter Notebook.
+
+Future Enhancements
+
+Build an interactive dashboard using Streamlit or Tableau Public.
+
+Add additional datasets for comparative analysis.
+
+Automate data updates and analysis using real-time APIs.
+
+Conclusion
+
+This analysis provides valuable insights into iPhone pricing and customer feedback trends. The findings can help retailers optimize their pricing strategies and assist consumers in making informed purchasing decisions.
+
 ## 🚀 Project Significance
 This project serves as an excellent introduction to data analysis concepts using Python. It demonstrates how real-world datasets can be used to derive insights, make informed decisions, and explore customer preferences. The analysis performed here lays the groundwork for more advanced analytics, such as predictive modeling or visualization.
