@@ -3,8 +3,6 @@
 ## 📖Project Overview
 This project involves the analysis of iPhone products data from Flipkart to gain insights into various product features, prices, ratings, and discounts. The dataset includes information about different iPhone models, including product names, sale prices, MRP (Maximum Retail Price), discount percentages, number of ratings and reviews, RAM specifications, and star ratings.
 
-The objective of this analysis is to explore trends such as the price distribution, rating distribution, and discounts across different iPhone models. It also includes visualizations of key metrics to provide a better understanding of how these factors correlate with each other.
-
 ## 🎯 Objectives
 - Understand Product Pricing: Identify the price range of iPhones, including the highest and lowest-priced models.
 - Discover Customer Preferences: Analyze ratings and reviews to understand customer satisfaction.
